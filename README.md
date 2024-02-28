@@ -256,7 +256,8 @@ int main(int argc, char **argv)
 
 ```
 ## OUTPUT:
-![image](https://github.com/SRINIDHISENTHILNATHAN/PCA-EXP1SUM-ARRAY/assets/121373170/e0349050-aece-4eb7-a230-e5ee43055712)
+![image](https://github.com/SRINIDHISENTHILNATHAN/PCA-EXP1SUM-ARRAY/assets/121373170/c52612af-13d8-401c-87f3-fc1fd4d99f52)
+
 
 
 
